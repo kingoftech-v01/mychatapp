@@ -2,7 +2,7 @@ import socket
 import threading
 
 # Configuration du serveur
-HOST = 'https://kingoftechv01.pythonanywhere.com/'  # Adresse IP du serveur
+HOST = ''  # Adresse IP du serveur
 PORT = 55555        # Port d'écoute
 
 # Création du socket serveur
